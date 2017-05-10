@@ -1,5 +1,3 @@
 
 this is test filde new branch
-to push then pull request
-second commit
->>>>>>> newbranch
+branch2 changes o push then pull request
