@@ -4,4 +4,6 @@ mastr chhanges  2nd time  changes o push then pull request
 branch2 changes o push then pull request
 
 basdkfj
-conficts test
+conficts tes
+conflicts test2
+t
