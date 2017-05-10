@@ -5,7 +5,9 @@ branch2 changes o push then pull request
 dfjkl
 basdkfj
 conficts tes
-conflicts test2
+conflicts test
 t
 
 mster conflcts test3
+=======
+conflicts test3
