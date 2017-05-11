@@ -5,14 +5,7 @@ branch2 changes o push then pull request
 dfjkl
 basdkfj
 conficts tes
-conflicts test
-t
-
-mster conflcts test3
-=======
-conflicts test
-this is for rebase
-3
-
+conflicts tes3
 
 this is master rebase 2nd time
+master rebae 3rd time
